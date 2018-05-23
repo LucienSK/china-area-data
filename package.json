@@ -1,5 +1,5 @@
 {
-  "name": "china-area-data",
+  "name": "china-address-data",
   "version": "4.0.0",
   "description": "中国省份城市区数据",
   "main": "data.js",
@@ -13,6 +13,6 @@
     "省市区",
     "vux"
   ],
-  "author": "airyland@qq.com",
+  "author": "603546459@qq.com",
   "license": "MIT"
 }

@@ -3,7 +3,7 @@
 ## 安装
 
 ```
-npm install china-area-data
+npm install china-address-data
 ```
 
 ## 版本说明
